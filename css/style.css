@@ -341,6 +341,7 @@ header button a {
 
 .portfolio .web img {
   width: 100%;
+  min-height: 200px
 }
 
 .portfolio .about {
@@ -416,7 +417,7 @@ header button a {
 
   .web img {
     display: block;
-    min-height: 200px
+
   }
 
   .portfolio .project:nth-of-type(even) .web {
