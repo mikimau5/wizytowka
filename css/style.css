@@ -416,6 +416,7 @@ header button a {
 
   .web img {
     display: block;
+    min-height: 200px
   }
 
   .portfolio .project:nth-of-type(even) .web {
@@ -597,7 +598,6 @@ header button a {
   font-family: 'saira', sans-serif;
   color: white;
   text-align: center;
-  /*  line-height: 25vh;*/
   text-shadow: 0 0 4px black;
   background-color: rgba(0, 0, 0, .5);
   font-size: 20px;
@@ -836,6 +836,3 @@ footer {
   padding: 20px;
   font-size: 20px;
 }
-
-
-/**/
